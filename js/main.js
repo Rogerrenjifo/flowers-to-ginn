@@ -11,7 +11,7 @@ onload = () => {
       { text: 'CONTIGO TODO ', color: '#f5a623', font: 'Arial', case: 'uppercase' },  // Warm orange color
       { text: 'es más que suficiente no ocupo de alguien más solo a ti presente. ', color: '#c1c1c1', font: 'Georgia', case: 'lowercase' },  // Light gray color
       { text: 'no ocupo de alguien más ', color: '#9e9d24', font: 'Tahoma', case: 'uppercase' },  // Olive green color
-      { text: 'solo a ti presente. ', color: '#8bc34a', font: 'Trebuchet MS', case: 'lowercase' },  // Fresh green color
+      { text: 'solo a ti presente', color: '#8bc34a', font: 'Trebuchet MS', case: 'lowercase' },  // Fresh green color
     ];
 
     const titleElement = document.getElementById('title');
